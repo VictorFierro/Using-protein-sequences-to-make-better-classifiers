@@ -1,5 +1,5 @@
 # Using-protein-sequences-to-make-better-classifiers
-Using protein sequences to make better classifiers
+Using protein sequences to make better classifiers 
 
 This investigation represents a summary of the research conducted by Stephan Heijl
 
